@@ -1,0 +1,18 @@
+body {
+    background-color: lavenderblush;
+}
+
+button,
+div,
+form,
+input {
+    margin: 10px;
+}
+
+label {
+    margin-left: 10px;
+}
+
+h5 {
+    width: 300px;
+}
