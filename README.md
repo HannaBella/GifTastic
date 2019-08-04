@@ -1,6 +1,6 @@
 # GifTastic
 
-##Creating gifs collection by using GIPHY API
+## Creating gifs collection by using GIPHY API
 
 This app takes the holiday name from holiday array and create buttons in HTML page.
 * A loop used to append a button for each string in the array.
