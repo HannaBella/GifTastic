@@ -15,7 +15,7 @@ The input form takes a value from a user input box and adds it to holiday array.
  ### Technology used to build this app:
     - html, bootstrap, JavaScript, JQuery, and GIPHY API.
   
- ## Author ### Hanna Tefera 
+ ### Author Hanna Tefera 
  
  ### Gif Tastic APP
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/GifTastic.png" height=300 width=400>
