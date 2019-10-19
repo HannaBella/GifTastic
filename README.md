@@ -13,8 +13,8 @@ The input form takes a value from a user input box and adds it to holiday array.
    - When the submit button clicks, it creates button iff text is added to the input box.
 
  ### Technology used to build this app:
-    - html, bootstrap, JavaScript, JQuery, and GIPHY API.
- 
+   - html, bootstrap, JavaScript, JQuery and GIPHY API.
+    
  ### Gif Tastic APP
  
  <img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/GifTastic.png" height=300 width=400>
