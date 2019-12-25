@@ -21,7 +21,7 @@ The input form takes a value from a user input box and adds it to holiday array.
     
  ### Gif Tastic APP
  
- 
+ <img src="https://github.com/HannaBella/GifTastic/blob/master/assets/Images/Giftastic.png">
 
  ### Contributor Hanna Tefera 
  
